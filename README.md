@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# dt-react
+
 Design Tokens Workflow for React 
 =======
 # Getting Started with Create React App
